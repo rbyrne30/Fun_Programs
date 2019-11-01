@@ -1,0 +1,198 @@
+==============================================
+   [ Testing scripts against  file0 ]
+==============================================
+
+====>  largestSquareBitwiseFast.py
+16
+
+real	0m0.299s
+user	0m0.208s
+sys	0m0.012s
+
+====>  largestSquareNaiive.py
+16
+
+real	0m0.666s
+user	0m0.656s
+sys	0m0.008s
+
+==============================================
+   [ Testing scripts against  file1 ]
+==============================================
+
+====>  largestSquareBitwiseFast.py
+1000000
+
+real	0m0.282s
+user	0m0.232s
+sys	0m0.028s
+
+====>  largestSquareNaiive.py
+1000000
+
+real	0m17.330s
+user	0m17.324s
+sys	0m0.000s
+
+==============================================
+   [ Testing scripts against  file2 ]
+==============================================
+
+====>  largestSquareBitwiseFast.py
+16
+
+real	0m0.845s
+user	0m0.800s
+sys	0m0.008s
+
+====>  largestSquareNaiive.py
+16
+
+real	0m2.585s
+user	0m2.584s
+sys	0m0.000s
+
+==============================================
+   [ Testing scripts against  file3 ]
+==============================================
+
+====>  largestSquareBitwiseFast.py
+4000000
+
+real	0m1.323s
+user	0m1.100s
+sys	0m0.164s
+
+====>  largestSquareNaiive.py
+4000000
+
+real	2m28.968s
+user	2m28.948s
+sys	0m0.040s
+
+==============================================
+   [ Testing scripts against  file4 ]
+==============================================
+
+====>  largestSquareBitwiseFast.py
+16
+
+real	0m1.258s
+user	0m1.172s
+sys	0m0.024s
+
+====>  largestSquareNaiive.py
+16
+
+real	0m3.772s
+user	0m3.772s
+sys	0m0.000s
+
+==============================================
+   [ Testing scripts against  file5 ]
+==============================================
+
+====>  largestSquareBitwiseFast.py
+4000000
+
+real	0m2.545s
+user	0m2.120s
+sys	0m0.324s
+
+====>  largestSquareNaiive.py
+4000000
+
+real	2m33.766s
+user	2m33.660s
+sys	0m0.108s
+
+==============================================
+   [ Testing scripts against  file6 ]
+==============================================
+
+====>  largestSquareBitwiseFast.py
+16
+
+real	0m0.832s
+user	0m0.740s
+sys	0m0.016s
+
+====>  largestSquareNaiive.py
+16
+
+real	0m2.505s
+user	0m2.492s
+sys	0m0.012s
+
+==============================================
+   [ Testing scripts against  file7 ]
+==============================================
+
+====>  largestSquareBitwiseFast.py
+1000000
+
+real	0m1.786s
+user	0m1.476s
+sys	0m0.180s
+
+====>  largestSquareNaiive.py
+1000000
+
+real	0m17.245s
+user	0m17.232s
+sys	0m0.012s
+
+==============================================
+   [ Testing scripts against  file8 ]
+==============================================
+
+====>  largestSquareBitwiseFast.py
+16
+
+real	0m7.851s
+user	0m7.480s
+sys	0m0.096s
+
+====>  largestSquareNaiive.py
+16
+
+real	0m16.862s
+user	0m16.844s
+sys	0m0.016s
+
+==============================================
+   [ Testing scripts against  file9 ]
+==============================================
+
+====>  largestSquareBitwiseFast.py
+49
+
+real	0m8.031s
+user	0m7.568s
+sys	0m0.108s
+
+====>  largestSquareNaiive.py
+49
+
+real	0m26.769s
+user	0m26.748s
+sys	0m0.020s
+
+==============================================
+   [ Testing scripts against  file10 ]
+==============================================
+
+====>  largestSquareBitwiseFast.py
+25000000
+
+real	0m15.786s
+user	0m12.936s
+sys	0m2.408s
+
+====>  largestSquareNaiive.py
+25000000
+
+real	40m34.157s
+user	40m23.092s
+sys	0m7.812s
+
