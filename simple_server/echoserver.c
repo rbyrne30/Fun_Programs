@@ -1,6 +1,3 @@
-// I pledge my honor that I have abided by the Stevens Honor System.
-// Ryan Byrne
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <sys/socket.h>
@@ -9,7 +6,7 @@
 #include <string.h>
 #include <netinet/in.h>
 #include <arpa/inet.h>
- 
+
 #define MAXPENDING 10
 #define MAXMSG 256
 
