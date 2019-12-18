@@ -1,4 +1,4 @@
-C = gcc
+C = gcc 
 CFLAGS = -pthread
 CLIENT_O = echoclient
 SERVER_O = echoserver
